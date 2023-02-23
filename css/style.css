@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-=======
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 .header{
@@ -119,5 +113,4 @@ footer{
     height: 200px;
     color: white;
     padding: 10px;
->>>>>>> parent of 8e197fa (Fix margin)
 }
